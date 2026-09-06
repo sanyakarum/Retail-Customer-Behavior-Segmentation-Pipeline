@@ -1,4 +1,4 @@
-# Customer Shopping Behavior Analysis
+# Retail Customer Behavior & Segmentation Pipeline
 
 ## Overview
 
